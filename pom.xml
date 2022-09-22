@@ -8,11 +8,11 @@
 		<version>2.7.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.ejemplo</groupId>
+	<groupId>com.portfolio</groupId>
 	<artifactId>SpringBoot</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0</version>
 	<name>SpringBoot</name>
-	<description>mi primer proyecto con springboot</description>
+	<description>Backend Portfolio Argentina Programa</description>
 	<properties>
 		<java.version>11</java.version>
 	 <maven.compiler.source>1.8</maven.compiler.source>
