@@ -17,6 +17,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 import com.portfolio.SpringBoot.service.IPortfolioService;
+import io.swagger.v3.oas.annotations.Operation;
 import org.springframework.web.bind.annotation.PutMapping;
 
 @CrossOrigin(origins = "*", allowedHeaders = "*", exposedHeaders="*")
@@ -107,36 +108,42 @@ public class Controller {
       
      
     // VER
+    @Operation(summary = "Obtiene los datos de la persona")
     @GetMapping ("/ver/persona")
     @ResponseBody
     public List<Persona> verPersonas() {
          return portfolioServ.verPersonas();
     }
     
+    @Operation(summary = "Obtiene los items del componente educación de la persona")
     @GetMapping ("/ver/educa")
     @ResponseBody
     public List<Educa> verEduca() {
          return portfolioServ.verEduca();
     }
     
+    @Operation(summary = "Obtiene los items del componente trabajo de la persona")
     @GetMapping ("/ver/trabajo")
     @ResponseBody
     public List<Trabajo> verTrabajo() {
         return portfolioServ.verTrabajo();
     }
     
+    @Operation(summary = "Obtiene los items del componente proyectos de la persona")
     @GetMapping ("/ver/proyecto")
     @ResponseBody
     public List<Proyecto> verProyecto() {
         return portfolioServ.verProyecto();
     }
     
+    @Operation(summary = "Obtiene los items del componente idiomas de la persona")
     @GetMapping ("/ver/idioma")
     @ResponseBody
     public List<Idioma> verIdioma() {
         return portfolioServ.verIdioma();
     }
     
+    @Operation(summary = "Obtiene los items del componente skills de la persona")
     @GetMapping ("/ver/skill")
     @ResponseBody
     public List<Skill> verSkill() {
