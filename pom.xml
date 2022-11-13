@@ -12,9 +12,9 @@
        
         
 	<groupId>com.portfolio</groupId>
-	<artifactId>SpringBoot</artifactId>
+	<artifactId>portfolioapbackend</artifactId>
 	<version>1.0</version>
-	<name>SpringBoot</name>
+	<name>Portfolio AP Backend</name>
 	<description>Backend Portfolio Argentina Programa</description>
 	<properties>
 		<java.version>11</java.version>
