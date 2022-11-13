@@ -6,7 +6,7 @@ Backend del proyecto de portfolio para Argentina Programa #YoProgramo
 
 👤 **Federico Holc**
 
-* LinkedIn: [@federico-holc-b4ab9b230](https://linkedin.com/in/federicoholc)
+* LinkedIn: [@federicoholc](https://linkedin.com/in/federicoholc)
 * Github: [@fedeholc](https://github.com/fedeholc)
 * Twitter: [@fedeholc](https://twitter.com/fedeholc)
 
