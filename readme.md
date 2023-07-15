@@ -6,9 +6,9 @@
 Stack: Angular, TypeScript, JavaScript, HTML, CSS, Bootstrap, JAVA,
 Spring Boot, Hibernate, MySQL, Git, GitHub.
 
-Front-end source code [here](https://github.com/fedeholc/Portfolio-Frontend/)
+Front-end source code [here](https://github.com/fedeholc/argentinaprograma-Portfolio-Frontend/)
 
-Back-end source code [here](https://github.com/fedeholc/Portfolio-Backend/)
+Back-end source code [here](https://github.com/fedeholc/argentinaprograma-Portfolio-Backend/)
 
 Online (not always): [https://portfolioap-cccf4.web.app/](https://portfolioap-cccf4.web.app)
 
