@@ -1,23 +1,23 @@
-# Bienvenido a Back-end Portfolio Argentina Programa 👋
+# Portfolio Argentina Programa
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/fedeholc/Portfolio-Backend/blob/master/README.es.md)
 
-Back-end del proyecto de portfolio para Argentina Programa #YoProgramo
+**Project made as final work for the full stack web development course of Argentina Programa v3.0, National Institute of Industrial Technology (INTI), Ministry of Economy of Argentina, 2022-2023.**
 
-* Script SQL: [portfolio script sql.sql](https://github.com/fedeholc/Portfolio-Backend/blob/main/doc/portfolio%20script%20sql.sql)
+Stack: Angular, TypeScript, JavaScript, HTML, CSS, Bootstrap, JAVA,
+Spring Boot, Hibernate, MySQL, Git, GitHub.
 
-* Documentación API (con swagger): [formato PDF](https://github.com/fedeholc/Portfolio-Backend/blob/main/doc/Documentaci%C3%B3n%20API.pdf) / 
-[formato HTML](https://github.com/fedeholc/Portfolio-Backend/blob/main/doc/Documentaci%C3%B3n%20API.html)
+Front-end source code [here](https://github.com/fedeholc/Portfolio-Frontend/)
 
-## Autor
+Back-end source code [here](https://github.com/fedeholc/Portfolio-Backend/)
 
-👤 **Federico Holc**
+Online (not always): [https://portfolioap-cccf4.web.app/](https://portfolioap-cccf4.web.app)
 
-* LinkedIn: [@federicoholc](https://linkedin.com/in/federicoholc)
-* Github: [@fedeholc](https://github.com/fedeholc)
-* Twitter: [@fedeholc](https://twitter.com/fedeholc)
+To access the editing functions, log in with the user ap@argentina.com.ar and the password "argentina" (without the quotes).
 
+## License
 
-## 📝 License
+- [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/) This project is under the GPL v3 License - see the file [LICENSE.md](LICENSE.md) for more details.
 
-Copyright © 2022 [Federico Holc](https://github.com/fedeholc).
+## Author:
 
-This project is [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.html) licensed.
+👤 **Federico Holc** [@fedeholc](https://github.com/fedeholc)
